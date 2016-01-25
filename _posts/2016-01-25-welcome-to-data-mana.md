@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-25T14:35:18.315Z'
-dateModified: '2016-01-25T14:35:02.275Z'
+description: This is my first take on The Grid.
+datePublished: '2016-01-25T14:52:52.353Z'
+dateModified: '2016-01-25T14:52:39.553Z'
 title: Welcome to Data Mana
 author: []
+sourcePath: _posts/2016-01-25-welcome-to-data-mana.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-welcome-to-data-mana.md
-published: true
 url: welcome-to-data-mana/index.html
 _type: Article
 
