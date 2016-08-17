@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: This is my first take on The Grid.
-datePublished: '2016-01-25T14:52:52.353Z'
-dateModified: '2016-01-25T14:52:39.553Z'
+description: >-
+  Mana was "is an edible substance that, according to the Bible and the Quran,
+  God provided for the Israelites during their travels in the desert.
+datePublished: '2016-08-17T15:32:36.448Z'
+dateModified: '2016-08-17T15:32:35.779Z'
 title: Welcome to Data Mana
 author: []
 sourcePath: _posts/2016-01-25-welcome-to-data-mana.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: welcome-to-data-mana/index.html
 _type: Article
 
